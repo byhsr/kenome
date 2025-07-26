@@ -1,6 +1,6 @@
-import Agent from "./Agent"
+
 import ComeUp from "./ComeUp"
-import GlowlyBox from "./GlowlyBox"
+
 import { motion } from "motion/react"
 
 const HowItWorks = () => {

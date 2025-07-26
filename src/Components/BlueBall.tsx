@@ -1,4 +1,4 @@
-import {motion, useScroll, useTransform , useSpring , useMotionTemplate, useMotionValueEvent} from "motion/react"
+import {motion, useScroll, useTransform , useSpring ,  useMotionValueEvent} from "motion/react"
 import { useState } from "react"
 
 
