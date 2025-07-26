@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=DotGothic16&family=Lexend:wght@100..900&family=Mochiy+Pop+One&family=Reggae+One&display=swap");
+
+@import "tailwindcss";
+
+
+@theme {
+    --font-lexend : "Lexend" , Sans-serif;
+    --font-dotgothic : 'DotGothic16' , Sans-serif
+}
